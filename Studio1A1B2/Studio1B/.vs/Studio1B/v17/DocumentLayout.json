@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\runningfish\\Desktop\\5032\\Studio1A1B2\\Studio1B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CF34EA-1F2E-49D8-A85B-016AB323395E}|Studio1B\\Studio1B.csproj|C:\\Users\\runningfish\\Desktop\\5032\\Studio1A1B2\\Studio1B\\studio1b\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CF34EA-1F2E-49D8-A85B-016AB323395E}|Studio1B\\Studio1B.csproj|solutionrelative:studio1b\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CF34EA-1F2E-49D8-A85B-016AB323395E}|Studio1B\\Studio1B.csproj|c:\\users\\runningfish\\desktop\\5032\\studio1a1b2\\studio1b\\studio1b\\views\\home\\view1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0CF34EA-1F2E-49D8-A85B-016AB323395E}|Studio1B\\Studio1B.csproj|solutionrelative:studio1b\\views\\home\\view1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CF34EA-1F2E-49D8-A85B-016AB323395E}|Studio1B\\Studio1B.csproj|C:\\Users\\runningfish\\Desktop\\5032\\Studio1A1B2\\Studio1B\\studio1b\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0CF34EA-1F2E-49D8-A85B-016AB323395E}|Studio1B\\Studio1B.csproj|solutionrelative:studio1b\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CF34EA-1F2E-49D8-A85B-016AB323395E}|Studio1B\\Studio1B.csproj|C:\\Users\\runningfish\\Desktop\\5032\\Studio1A1B2\\Studio1B\\studio1b\\content\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E0CF34EA-1F2E-49D8-A85B-016AB323395E}|Studio1B\\Studio1B.csproj|solutionrelative:studio1b\\content\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\runningfish\\Desktop\\5032\\Studio1A1B2\\Studio1B\\Studio1B\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Studio1B\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\runningfish\\Desktop\\5032\\Studio1A1B2\\Studio1B\\Studio1B\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Studio1B\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T03:16:30.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "View1.cshtml",
+              "DocumentMoniker": "C:\\Users\\runningfish\\Desktop\\5032\\Studio1A1B2\\Studio1B\\Studio1B\\Views\\Home\\View1.cshtml",
+              "RelativeDocumentMoniker": "Studio1B\\Views\\Home\\View1.cshtml",
+              "ToolTip": "C:\\Users\\runningfish\\Desktop\\5032\\Studio1A1B2\\Studio1B\\Studio1B\\Views\\Home\\View1.cshtml",
+              "RelativeToolTip": "Studio1B\\Views\\Home\\View1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T03:11:51.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\runningfish\\Desktop\\5032\\Studio1A1B2\\Studio1B\\Studio1B\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Studio1B\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\runningfish\\Desktop\\5032\\Studio1A1B2\\Studio1B\\Studio1B\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Studio1B\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T03:04:21.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StyleSheet1.css",
+              "DocumentMoniker": "C:\\Users\\runningfish\\Desktop\\5032\\Studio1A1B2\\Studio1B\\Studio1B\\Content\\StyleSheet1.css",
+              "RelativeDocumentMoniker": "Studio1B\\Content\\StyleSheet1.css",
+              "ToolTip": "C:\\Users\\runningfish\\Desktop\\5032\\Studio1A1B2\\Studio1B\\Studio1B\\Content\\StyleSheet1.css",
+              "RelativeToolTip": "Studio1B\\Content\\StyleSheet1.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-11T02:56:06.648Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
