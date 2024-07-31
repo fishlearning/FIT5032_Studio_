@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <h2>Select a Date</h2>
+            <div class="form-group">
+                <label for="datepicker">Date:</label>
+                <input type="text" class="form-control" id="datepicker" placeholder="Select Date" />
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        $('#datepicker').datepicker({
+            format: 'yyyy-mm-dd',
+            autoclose: true,
+            todayHighlight: true
+        }).datepicker('setDate', '2024-08-20'); // 设置默认日期
+    });
+</script>
